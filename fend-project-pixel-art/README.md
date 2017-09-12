@@ -1,16 +1,16 @@
-# Pixel Art Maker Project
+<h1>Pixel Art Maker Project</h1>
+This is the 2nd project in Udacity's <a href="https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001" target="_blank">Front-End Web Developer</a> Nanodegree program.
 
-## Table of Contents
+<h1>What Will I Build?</h1>
+You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+<h1>What Skills Do I Need?</h1>
+In this project, you'll use your front-end programming skills from JavaScript Foundations and Intro to jQuery, including:
 
-## Instructions
+Defining variables with const and let
+Accessing the DOM using methods of the document object
+Declaring functions and attaching them to DOM objects as event listeners
+Writing nested loops and using loop variables
+Although not a requirement, you are encouraged to use jQuery to manipulate the DOM for this project.
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+<a href="https://tripleagent93.github.io/fend-project-pixel-art/" target="_blank">View Here</a>
