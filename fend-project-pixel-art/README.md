@@ -4,7 +4,7 @@ This is the 2nd project in Udacity's <a href="https://www.udacity.com/course/fro
 <h1>Overview</h1>
 You’ll build a single-page web app that allows users to draw pixel art on a customizable canvas!
 
-In this project, you'll use your front-end programming skills from JavaScript Foundations and Intro to jQuery, including:
+In this project, you'll use your front-end programming skills from <strong>JavaScript Foundations</strong> and Intro to jQuery, including:
 <ul>
 <li>Defining variables with const and let</li>
 <li>Accessing the DOM using methods of the document object</li>
